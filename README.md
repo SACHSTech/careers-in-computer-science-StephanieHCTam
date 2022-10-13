@@ -64,3 +64,54 @@ Salary range: $61K to $133K.
 The national average salary for a Software Engineer is $90,371 in Canada.
 
 <br/>
+
+---
+
+<br/>
+
+## Standard Education
+
+---
+**School:** University of Waterloo
+
+**Program:** [Software Engineering](https://uwaterloo.ca/future-students/programs/software-engineering)
+
+<br/>
+
+---
+
+### **Course Requirements**:
+
+6 Grade 12 U and/or M courses (minimum final grade of 70% is required):
+- Advanced Functions
+- Calculus and Vectors 
+- Chemistry 
+- Physics
+- English (ENG4U) 
+- Grade 11 & 12 U Computer Science are recommended 
+- Admission average: low to mid-90s
+
+<br/>
+
+---
+
+### **First Year Courses:**
+During the first year, software engineering students will take a mix of foundational courses in computer engineering, computer science, and math. In upper years, they will mostly take software engineering courses.
+
+| Course Code | Name                                                |
+|-------------|-----------------------------------------------------|
+| CS 137      | Programming Principles                              |
+| ECE 105     | Classical Mechanics                                 |
+| MATH 115    | Linear Algebra for Engineering                      |
+| MATH 117    | Calculus 1 for Engineering                          |
+| MATH 135    | Algebra for Honours Mathematics                     |
+| SE 101      | Introductions to Methods of Software Engineering    |
+| CS 138      | Introduction to Data Abstraction and Implementation |
+| ECE 106     | Electricity and Magnetism                           |
+| ECE 124     | Digital Circuits and Systems                        |
+| ECE 140     | Linear Circuits                                     |
+| MATH 119    | Calculus 2 for Engineering                          |
+| SE 102      | Seminar                                             |
+
+<br/>
+
