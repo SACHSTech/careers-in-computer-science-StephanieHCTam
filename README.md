@@ -55,3 +55,12 @@ Senior Software Engineers are information technology professionals who develop i
 
 <br/>
 
+---
+
+### **Salary Range**:
+
+Salary range: $61K to $133K.
+
+The national average salary for a Software Engineer is $90,371 in Canada.
+
+<br/>
