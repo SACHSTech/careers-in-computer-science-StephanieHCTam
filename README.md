@@ -23,3 +23,13 @@ Senior Software Engineers are information technology professionals who develop i
 - Determine operational feasibility by evaluating analysis, problem definition, requirements, solution development and proposed solutions
 
 <br/>
+
+---
+
+### **Required Education:**
+- A bachelor's degree: computer science, computer engineering, software engineering or mathematics
+- A master's or doctoral degree in a related discipline may be required.
+- Licensing by a provincial or territorial association of professional engineers is required to approve engineering drawings and reports and to practise as a Professional Engineer (P.Eng.).
+- Engineers are eligible for registration following graduation from an accredited educational program, three or four years of supervised work experience in engineering, and passing a professional practice examination.
+
+<br/>
