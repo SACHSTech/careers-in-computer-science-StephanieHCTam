@@ -6,7 +6,7 @@
 
 ---
 
-<img src = "https://d3kqdc25i4tl0t.cloudfront.net/articles/content/519_295775_tech.hero.jpg" width="500" height="500">
+<img src = "https://images.ctfassets.net/q33z48p65a6w/10PVuoiA0kE0aKYEOSOasi/f3c4a42ca4a0fdd823996ea558b35a71/N26_Office_Shoot_HR_25.jpg?fit=thumb&fl=progressive&fm=jpg&q=70&w=360" width="800" height="500">
 
 <br/>
 
