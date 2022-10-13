@@ -205,3 +205,37 @@ Students will benefit from the co-op experience by:
 
 <br/>
 
+---
+
+<br/>
+
+## **Works Cited**
+
+<br/>
+
+“Computer Software Engineer in Canada | Job requirements.” Job Bank, 16 August 2022, https://www.jobbank.gc.ca/marketreport/requirements/5485/ca.
+
+“Co-op | Software Engineering.” University of Waterloo, https://uwaterloo.ca/software-engineering/undergraduate-students/co-op.
+
+“Courses for your Software Engineering degree | Undergraduate Programs.” University of Waterloo, https://uwaterloo.ca/future-students/courses/software-engineering.
+
+“Full Stack Software Engineer.” Indeed.ca, https://ca.indeed.com/jobs?q=Software+Engineer+Mid+Level&l=&vjk=4d981543753a599c.
+
+Guide, Step. “What Skills Do You Need to Be a Software Engineer? (2022 Guide).” BrainStation, https://brainstation.io/career-guides/what-skills-do-you-need-to-be-a-software-engineer.
+
+“Salary: Software Engineer (October, 2022).” Glassdoor, https://www.glassdoor.ca/Salaries/software-engineer-salary-SRCH_KO0,17.htm.
+
+“Senior Software Engineer Job Description | Job Description Examples.” TopResume, https://ca.topresume.com/career-advice/senior-software-engineer-job-description.
+
+“Software Engineer, Entry-Level.” Workopolis.com, https://workopolis.com/jobsearch/find-jobs?ak=software+engineer+entry+level&l=&job=ivZgb9KuldtKjR6mirvWFlFczTaKMRpfIYQAr0GsgQ-sRUbXIvj5nQ.
+
+“Software Engineering Co-op | Electrical and Computer Engineering.” McGill University, https://www.mcgill.ca/ece/undergrad/information/software-engineering-co-op.
+
+“Software Engineering degree | Undergraduate Programs.” University of Waterloo, https://uwaterloo.ca/future-students/programs/software-engineering.
+
+“Software Engineer, iOS - Slack.” Indeed.ca, https://ca.indeed.com/jobs?q=Software+Engineer+Mid+Level&l=&vjk=cacf278feec043f2.
+
+“Software Engineer job description template | Workable.” Workable resources, https://resources.workable.com/software-engineer-job-description.
+
+---
+
