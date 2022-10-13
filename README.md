@@ -129,3 +129,25 @@ The Software Engineering program has 6 work terms. First work term is in the Spr
 
 <br/>
 
+---
+
+<br/>
+
+## Experiential Learning
+
+---
+
+### **Co-op programs:**
+
+Software engineering students can attain valuable experiential learning through co-op programs at selected universities. Software Engineering Co-op programs offer students the opportunity to develop skills needed to design and develop complex software systems while participating in industrial work-terms.
+
+Students will benefit from the co-op experience by:
+- Improving their teamwork and leadership skills
+- Receiving individualized career counseling
+- Gaining relevant paid work experience
+- Developing their skill-sets to advance their career
+- Discovering what career fits best through different job opportunities
+- Meeting key people in industry who can help facilitate job placement
+
+<br/>
+
