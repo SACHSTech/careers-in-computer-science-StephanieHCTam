@@ -254,3 +254,24 @@ Guide, Step. “What Skills Do You Need to Be a Software Engineer? (2022 Guide).
 
 ---
 
+<br/>
+
+## **Images Cited**
+
+<br/>
+
+University of Waterloo Experts • Home, https://experts.uwaterloo.ca/.
+
+“Bachelor of Science in Software Engineering at Sam Houston State University.” Sam Houston State University, 25 May 2021, https://www.shsu.edu/programs/bachelor-of-science-in-software-engineering/.
+
+“Hire Waterloo interns/co-op students for tech, business, finance and data | HIRE Waterloo.” University of Waterloo, https://uwaterloo.ca/hire/hire-waterloo-co-op-students-tech-business-finance-and-data.
+
+“Honours Bachelor of Technology – Software Development - Seneca, Toronto, Canada.” Seneca College, https://www.senecacollege.ca/programs/fulltime/BSD.html.
+
+Mayhew, Jacob. “What Do Software Engineers Do?” Woz U, 20 February 2020, https://woz-u.com/blog/what-do-software-engineers-do/.
+
+“Mistakes to Avoid as a Senior Software Engineer- Part 1.” TechManiac, 24 September 2021, https://dev.to/techmaniacc/mistakes-to-avoid-as-a-senior-software-engineer-g9c.
+
+“Software Engineer Job Description Template.” VIVAHR, 21 June 2021, https://vivahr.com/software-engineer-job-description-template/.
+
+---
