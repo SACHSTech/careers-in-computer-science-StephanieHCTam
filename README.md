@@ -33,3 +33,25 @@ Senior Software Engineers are information technology professionals who develop i
 - Engineers are eligible for registration following graduation from an accredited educational program, three or four years of supervised work experience in engineering, and passing a professional practice examination.
 
 <br/>
+
+---
+
+### **Technical & Non-Technical Skills:**
+<br/>
+
+| Technical Skills                | Description                                                                                                                   |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Coding and computer programming | Java, Python, C and C++, Ruby, Scala, JavaScript  Programming fundamentals: data structures and algorithms.                   |
+| Software testing                | Understanding the ins and outs of software testing and debugging.                                                             |
+| Object-oriented design (OOD)    | Understand how to apply object-oriented design guidelines to create flexible, modular and reusable software.                  |
+| Software development            | Working with real computer systems and developing real projects and programs to be able to steer a software development team. |
+
+| Non-Technical Skills | Description                                                                                                                                         |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Communication        | Clearly communicate (writing and orally) with any type of team or company stakeholder, regardless of that person’s technical background.            |
+| Teamwork             | Working/leading a team by compromising and motivating others to deliver the best work they’re capable of, and how to take and learn from criticism. |
+| Problem solving      | Quickly identifying and solving issues, to be able to sift through code to pinpoint a programming error and adapt quickly.                          |
+| Attention to detail  | Precise and meticulous, with a high level of attention to detail applied to coding, testing and documenting projects.                               |
+
+<br/>
+
