@@ -6,6 +6,8 @@
 
 ---
 
+<img src = "https://d3kqdc25i4tl0t.cloudfront.net/articles/content/519_295775_tech.hero.jpg>
+
 <br/>
 
 ## Career Basics
