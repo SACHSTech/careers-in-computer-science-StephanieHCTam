@@ -189,3 +189,19 @@ Students will benefit from the co-op experience by:
 
 <br/>
 
+---
+
+### **Senior Level Position**
+
+<br/>
+
+| Job Title                              | [Software Engineer, iOS - Slack](https://ca.indeed.com/jobs?q=Software+Engineer+Mid+Level&l=&vjk=cacf278feec043f2)                                                                                                                                                                                                                                                                                                                                                                                     |
+|----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Company                                | Salesforce                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Salary                                 | $139K - $201K                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Job Description                        | iOS Engineers build for the long term and value patterns and structures that allow for maximum flexibility in a constantly evolving product. Passionate about leading and mentoring other iOS engineers. Demonstrate exceptional ownership of not only the area of your team, but across Slack’s entire iOS codebase. Greatest responsibility to deliver the highest quality code and the most impactful features. |
+| City                                   | Vancouver, BC                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Additional skills/ experience required | 5+ years of working experience in iOS product development Experience developing with Swift Familiarity with API design and developing self-documenting, reusable components A familiarity with the iOS tool ecosystem for development, testing, debugging, and performance benchmarking                                                                                                                            |
+
+<br/>
+
