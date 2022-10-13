@@ -6,7 +6,7 @@
 
 ---
 
-<img src = "https://d3kqdc25i4tl0t.cloudfront.net/articles/content/519_295775_tech.hero.jpg">
+<img src = "https://d3kqdc25i4tl0t.cloudfront.net/articles/content/519_295775_tech.hero.jpg" width="500" height="500">
 
 <br/>
 
