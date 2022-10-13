@@ -151,3 +151,25 @@ Students will benefit from the co-op experience by:
 
 <br/>
 
+---
+
+<br/>
+
+## Real Jobs
+
+---
+
+### **Entry Level Position**
+
+<br/>
+
+| Job Title                              | [Software Engineer, Entry-Level](https://workopolis.com/jobsearch/find-jobs?ak=software+engineer+entry+level&l=&job=ivZgb9KuldtKjR6mirvWFlFczTaKMRpfIYQAr0GsgQ-sRUbXIvj5nQ )                                                                                                                                                                                                                                                                                                     |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Company                                | Laserfiche                                                                                                                                                                                                                                                                                                                         |
+| Salary                                 | $67,000 - $90,000                                                                                                                                                                                                                                                                                                                  |
+| Job Description                        | - Creating powerful, highly-reliable and scalable applications - Write and test code for the next generation of Laserfiche applications - Work on a high functioning agile development team - Collaborate with developers, testers, product managers and leadership - Learn and adopt Laserfiche's coding standards and principles |
+| City                                   | Toronto, ON                                                                                                                                                                                                                                                                                                                        |
+| Additional skills/ experience required | Developing container based microservice oriented system Cloud technologies, AWS experience is a plus CI/CD experience .Net Framework, .Net Core Experience in relevant internships, work experience, hackathons or passion projects                                                                                                |
+
+<br/>
+
