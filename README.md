@@ -29,10 +29,13 @@ Senior Software Engineers are information technology professionals who develop i
 ---
 
 ### **Required Education:**
+
 - A bachelor's degree: computer science, computer engineering, software engineering or mathematics
 - A master's or doctoral degree in a related discipline may be required.
 - Licensing by a provincial or territorial association of professional engineers is required to approve engineering drawings and reports and to practise as a Professional Engineer (P.Eng.).
 - Engineers are eligible for registration following graduation from an accredited educational program, three or four years of supervised work experience in engineering, and passing a professional practice examination.
+
+<img src = "https://www.shsu.edu/programs/bachelor-of-science-in-software-engineering/images/cset-web.jpg" width = "500" height = "250">
 
 <br/>
 
@@ -77,6 +80,8 @@ The national average salary for a Software Engineer is $90,371 in Canada.
 **School:** University of Waterloo
 
 **Program:** [Software Engineering](https://uwaterloo.ca/future-students/programs/software-engineering)
+
+<img src = "https://experts.uwaterloo.ca/static/img/uwaterloo.logo.png" width = "570" height = "150">
 
 <br/>
 
@@ -137,6 +142,8 @@ The Software Engineering program has 6 work terms. First work term is in the Spr
 
 ## Experiential Learning
 
+<img src = "https://uwaterloo.ca/hire/sites/ca.hire/files/uploads/images/web_page_banner_for_math_bd_page.png" width = "880" height = "200">
+
 ---
 
 ### **Co-op programs:**
@@ -163,6 +170,8 @@ Students will benefit from the co-op experience by:
 
 ### **Entry Level Position**
 
+<img src = "https://www.senecacollege.ca/content/dam/projects/seneca/Program-2018/bsd_top.jpg" width = "500" height = "250">
+
 <br/>
 
 | Job Title                              | [Software Engineer, Entry-Level](https://workopolis.com/jobsearch/find-jobs?ak=software+engineer+entry+level&l=&job=ivZgb9KuldtKjR6mirvWFlFczTaKMRpfIYQAr0GsgQ-sRUbXIvj5nQ )                                                                                                                                                                                                                                                                                                     |
@@ -179,6 +188,8 @@ Students will benefit from the co-op experience by:
 
 ### **Mid Level Position**
 
+<img src = "https://vivahr.com/wp-content/uploads/2021/06/Software-Engineer-Job-Description-Template.jpg" width = "500" height = "300">
+
 <br/>
 
 | Job Title                              | [Full Stack Software Engineer](https://ca.indeed.com/jobs?q=Software+Engineer+Mid+Level&l=&vjk=4d981543753a599c)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -194,6 +205,8 @@ Students will benefit from the co-op experience by:
 ---
 
 ### **Senior Level Position**
+
+<img src = "https://woz-u.com/wp-content/uploads/2020/02/What-Do-Software-Engineers-Do-WOZ-1-min-1280x720.png" width = "500" height = "300">
 
 <br/>
 
