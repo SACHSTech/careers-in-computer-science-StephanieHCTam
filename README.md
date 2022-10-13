@@ -115,3 +115,17 @@ During the first year, software engineering students will take a mix of foundati
 
 <br/>
 
+---
+
+### **Other Degree Requirements:**
+Offered as a co-op program only: Co-op is mandatory for Waterloo engineering students.
+- Graduate with a Bachelor of Software Engineering
+- Faculty of Engineering and the Faculty of Mathematics
+
+<br/>
+
+### **Program Length**
+The Software Engineering program has 6 work terms. First work term is in the Spring of first year. With the work terms, it takes just under **_5 years_** to complete the program. Students graduate with up to 2 years of full-time work experience.
+
+<br/>
+
